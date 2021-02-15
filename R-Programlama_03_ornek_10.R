@@ -1,0 +1,6 @@
+dizi = c(10,5,5,42,16,48,34,8,9,11)
+uzunluk = length(dizi)
+sum(dizi)
+median(dizi)
+min(dizi)
+max(dizi)
